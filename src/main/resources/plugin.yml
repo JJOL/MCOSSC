@@ -1,0 +1,5 @@
+name: MCOSServerCore
+main: net.ccnetwork.mcossc.OSSC
+description: Server Core Controller and APIs
+authors: [IOWizard]
+version: 1.0
